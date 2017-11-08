@@ -1,1 +1,1 @@
-# Deep-Learning-of-Binary-Hash-codes-for-Image-Retrieval
+# Deep-Learning-of-Binary-Hash-Codes-for-Faster-Image-Retrieval
